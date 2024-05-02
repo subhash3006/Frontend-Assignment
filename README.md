@@ -30,7 +30,7 @@ The component renders four charts:
 3. Network Usage
 4. Disk IOPS
 
-Each chart displays three lines: Limits, Requested, and Used.
+Each chart displays three lines: Limits, Requested, and Used. If we click on any part, it will be removed that part. 
 
 ## Logs
 
